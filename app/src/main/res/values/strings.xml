@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Unit Converter</string>
+    <string-array name="planets_array">
+        <item>Kg To Pounds</item>
+        <item>Meter To Foot</item>
+        <item>Centimeter To Inch</item>
+        <item>Liter To Gallon</item>
+        <item>Milliliter To Ounce</item>
+        <item>Kilometer To Miles</item>
+        <item>Celsius To Fahrenheit</item>
+    </string-array>
 </resources>
