@@ -5,7 +5,7 @@ This is an android base app that allow user to convet multiple Imperial Units to
 Such as km to miles and celsius to fahrenheit
 
 #
-<img src="/images/Converter#1.PNG" width="917" height="533">
+![Converter#1](/images/Converter#1.PNG)
 ###
 ![Converter#2](/images/Converter#2.PNG)
 ###
